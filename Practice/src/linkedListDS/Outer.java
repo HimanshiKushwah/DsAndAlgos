@@ -1,0 +1,4 @@
+package linkedListDS;
+
+class Outer {
+}
